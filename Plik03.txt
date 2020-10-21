@@ -1,4 +1,5 @@
 Zmiana07b
+Zmiana09
 naprawa błedów - hotFix-001
 oraz
 Dodano asystenta pomocy
