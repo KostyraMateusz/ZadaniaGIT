@@ -1,0 +1,48 @@
+[33m32990da[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: commit: Poprawa opisu 5 ostatnich zmian
+[33m9d3980c[m HEAD@{1}: reset: moving to HEAD~
+[33ma832e22[m HEAD@{2}: reset: moving to HEAD~
+[33mbb4ac04[m HEAD@{3}: commit: Zmiana10 nowa
+[33ma832e22[m HEAD@{4}: reset: moving to HEAD~
+[33me68df05[m HEAD@{5}: commit: Zmiana10
+[33ma832e22[m HEAD@{6}: reset: moving to HEAD
+[33ma832e22[m HEAD@{7}: commit (amend): Zmiana09 w obu plikach: Plik02.txt oraz Plik03.txt
+[33mc6265aa[m HEAD@{8}: commit (amend): Zmiana09 w obu plikach
+[33m86b048a[m HEAD@{9}: commit: Zmiana09 w obu plikach
+[33m9d3980c[m HEAD@{10}: commit (amend): Zmiana08 w Plik02.txt oraz Plik03.txt
+[33m9dde574[m HEAD@{11}: commit (amend): Zmiana08
+[33m8f1fbfd[m HEAD@{12}: commit: Zmiana08
+[33m5833159[m HEAD@{13}: checkout: moving from zadanie to master
+[33md225f7a[m[33m ([m[1;32mzadanie[m[33m)[m HEAD@{14}: checkout: moving from zadanie to zadanie
+[33md225f7a[m[33m ([m[1;32mzadanie[m[33m)[m HEAD@{15}: checkout: moving from master to zadanie
+[33m5833159[m HEAD@{16}: checkout: moving from master to master
+[33m5833159[m HEAD@{17}: checkout: moving from hotFix-001 to master
+[33m82542fd[m[33m ([m[1;32mhotFix-001[m[33m)[m HEAD@{18}: commit: ziemniaki
+[33md2b01e7[m HEAD@{19}: checkout: moving from master to hotFix-001
+[33m5833159[m HEAD@{20}: commit: zadanie 1234
+[33md225f7a[m[33m ([m[1;32mzadanie[m[33m)[m HEAD@{21}: checkout: moving from master to master
+[33md225f7a[m[33m ([m[1;32mzadanie[m[33m)[m HEAD@{22}: checkout: moving from master to master
+[33md225f7a[m[33m ([m[1;32mzadanie[m[33m)[m HEAD@{23}: commit (merge): Merge branch 'zadanie' into master
+[33md2b01e7[m HEAD@{24}: checkout: moving from hotFix-001 to master
+[33md2b01e7[m HEAD@{25}: checkout: moving from hotFix-001 to hotFix-001
+[33md2b01e7[m HEAD@{26}: checkout: moving from master to hotFix-001
+[33md2b01e7[m HEAD@{27}: checkout: moving from master to master
+[33md2b01e7[m HEAD@{28}: commit: Naprawa problemu hotFix-001
+[33mda2b189[m HEAD@{29}: checkout: moving from zadanie to master
+[33m26207e4[m HEAD@{30}: commit: uproszczono GUI
+[33m8c21c5c[m HEAD@{31}: commit: Dodano asystent
+[33mda2b189[m HEAD@{32}: checkout: moving from master to zadanie
+[33mda2b189[m HEAD@{33}: checkout: moving from zadanie to master
+[33mda2b189[m HEAD@{34}: checkout: moving from master to zadanie
+[33mda2b189[m HEAD@{35}: checkout: moving from a4ba8a148cd4d3f1dbe22d2b49f12527ef28ef44 to master
+[33ma4ba8a1[m HEAD@{36}: checkout: moving from master to a4ba8a1
+[33mda2b189[m HEAD@{37}: checkout: moving from 0d1557b1314cfe021c19e02df3e065b37cb572d1 to master
+[33m0d1557b[m HEAD@{38}: checkout: moving from master to 0d1557b
+[33mda2b189[m HEAD@{39}: commit: Zmiana07
+[33mb9ef587[m HEAD@{40}: commit: Zmiana06
+[33m0d1557b[m HEAD@{41}: commit: Dodano plik Plik02.txt
+[33ma777f39[m HEAD@{42}: commit: Zmiana05
+[33m8c94346[m HEAD@{43}: commit: Zmiana05
+[33ma4ba8a1[m HEAD@{44}: commit: Zmiana04
+[33m109ad03[m HEAD@{45}: commit: Zmiana02
+[33m6b72024[m HEAD@{46}: commit: zmiana02
+[33m760982e[m HEAD@{47}: commit (initial): opis
