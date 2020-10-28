@@ -4,6 +4,7 @@ Zmiana03
 Zmiana04 -Zmiana04a
 Zmiana05
 Zmiana08
+Zmiana13
 <<<<<<< HEAD
 naprawa błedów - hotFix-001
 =======
